@@ -8,7 +8,7 @@
 
 /* main */
  body{
-   background-image: url(zelda_backCG.jpg), url(zelda_rogo.png);
+   background-image: url(../zelda_backCG.jpg), url(../zelda_rogo.png);
    background-repeat: no-repeat, no-repeat;
    background-size: 5% 5%, cover;
    background-color: lightgrey;
