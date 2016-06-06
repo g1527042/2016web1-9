@@ -35,3 +35,10 @@ body{
   padding: 10px;
   margin: 5px;
 }
+/* box-shadow */
+#box-shadow{
+  font-size: 30px;
+}
+.box-drop_shadow  {box-shadow: 2px 2px 5px grey;  padding: 5px; margin: 20px;}
+.box-grow         {color: white;
+                   box-shadow: 0px 0px 10px grey; padding: 5px; margin: 20px;}
