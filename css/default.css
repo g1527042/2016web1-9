@@ -21,3 +21,17 @@ body{
 .drop_shadow{text-shadow: 2px 2px 3px grey;}
 .grow       {color: white; 
             text-shadow: 0px 0px 5px grey;}
+
+/* 角丸 */
+.border-radius-one{
+  border-radius: 50px;
+  background-color: floralwhite;
+  padding: 10px;
+  margin: 5px;
+}
+.border-radius-two{
+   border-radius: 5px 50px;
+  background-color: floralwhite;
+  padding: 10px;
+  margin: 5px;
+}
