@@ -123,7 +123,7 @@ p.transition a{
   font-size: 30px;
   text-decoration: none;
   padding: 5px;
-  translation: 1s;
+  transition: 1s;
 }
 p.transition a:hover{
   background-color: gold;
