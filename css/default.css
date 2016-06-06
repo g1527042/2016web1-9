@@ -113,3 +113,21 @@
 .translate{
   transform: translate(-20px, -5px);
 }
+/* translation */
+p.translation{
+  margin: 10px;
+}
+p.translation a{
+  background-color: mediumseagreen;
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
+  padding: 5px;
+  translation: 1s;
+}
+p.translation a:hover{
+  background-color: gold;
+  text-decoration: none;
+  padding: 5px;
+  color: black;
+}
