@@ -42,3 +42,14 @@ body{
 .box-drop_shadow  {box-shadow: 2px 2px 5px grey;  padding: 5px; margin: 20px;}
 .box-grow         {color: white;
                    box-shadow: 0px 0px 10px grey; padding: 5px; margin: 20px;}
+/* box-sizing */
+.box-sizing{
+  width: 120px;
+  padding: 10px;
+  border: 10px;
+  margin: 10px;
+  border-style: solid;
+  border-color: black;
+}
+.content-box{box-sizing:content-box;}
+.border-box {box-sizing:border^box;}
